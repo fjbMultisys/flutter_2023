@@ -2,24 +2,28 @@
 (っ˘▽˘)っ Dr. Angela Yu's Flutter App Dev Course ⊂(◕.◕⊂)
 
 Uploaded
+
 ✅ i-am-rich
 
 ✅ mi-card
 
+✅ quizzler
+
 ✅ destini-challenge-completed
+
+✅ dicee-flutter
 
 ✅ magic-8-ball-flutter
 
 ✅ bitcoin-ticker-flutter
 
+- - -
+
 Upcoming:
-❌ quizzler
 
 ❌ xylophone-flutter
 
 ❌ BMI-Calculator-Flutter-Completed
-
-❌ dicee-flutter
 
 ❌ Clima-Flutter
 
