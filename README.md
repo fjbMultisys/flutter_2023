@@ -108,3 +108,50 @@ Day 6-7:
 
 Note: These steps are just a rough guideline, feel free to adjust it to your pace and learning style. Also, make sure to practice as much as you can, as this will help you solidify your knowledge.
 Note: The amount of time you will spend on each day may vary based on your prior knowledge and learning speed. Also, the resources listed above are not exhaustive, feel free to explore other resources as well.
+
+
+//================================================================================
+# FLUTTER 1 MONTH
+//================================================================================ 
+Sure! Here's a roadmap for learning Flutter in 1 month:
+
+Week 1:
+
+- Start by learning the basics of Dart programming language, if you're not already familiar with it.
+  Resource: https://dart.dev/guides/language/language-tour
+- Go through the Flutter Introduction and Setup Guide to install Flutter and set up your development environment.
+  Resource: https://flutter.dev/docs/get-started/install
+- Work through the Flutter Codelab to get a feel for building a Flutter app.
+  Resource: https://flutter.dev/docs/codelab
+- Read through the Flutter Widgets Catalog to understand the various widgets available in Flutter.
+  Resource: https://flutter.dev/docs/widgets-intro
+
+Week 2:
+
+- Start building your first Flutter app. Choose a simple project to work on, like a weather app or a to-do list app.
+  Resource: https://flutter.dev/docs/get-started/codelab
+- Watch some Flutter tutorials on YouTube to see how others have built similar projects.
+  Resource: https://www.youtube.com/results?search_query=flutter+tutorial
+- Read about Flutter's architecture and how it handles user interface and state management.
+  Resource: https://flutter.dev/docs/architecture/widgets-and-rendering
+
+Week 3:
+
+- Learn about routing and navigation in Flutter.
+  Resource: https://flutter.dev/docs/cookbook/navigation
+- Start adding features to your app, like user authentication, APIs, and databases.
+  Resource: https://flutter.dev/docs/cookbook
+- Read about Flutter's reactive programming model and learn how to use streams.
+  Resource: https://flutter.dev/docs/development/data-and-backend/streams
+
+Week 4:
+
+- Finish building your app and publish it on the app store or play store.
+  Resource: https://flutter.dev/docs/deployment/android
+- Start contributing to open-source Flutter projects.
+  Resource: https://github.com/flutter/flutter
+- Keep learning and experimenting with new features and widgets.
+
+Note: This roadmap assumes that you have some prior programming experience and can dedicate at least 4-5 hours every day to learning Flutter.
+
+
